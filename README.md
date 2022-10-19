@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Renan 👋
 
 - 🔭 Hoje trabalho com SQL, PL/SQL, Pentaho e Bi
-- 🌱 Estudando HTML, CSS e Java Script
+- 🌱 Estudando HTML, CSS, Python e Java Script
 - 📫 Contate-me no e-mail: renanback@gmail.com
 
 <div align="center">
